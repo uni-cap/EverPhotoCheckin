@@ -2,6 +2,7 @@
 
 [时光相册](https://web.everphoto.cn) 签到助手，利用GitHub Actions每天自动执行。
 
+
 ## 使用方法
 
 **首先，Fork本项目到自己的仓库。**
